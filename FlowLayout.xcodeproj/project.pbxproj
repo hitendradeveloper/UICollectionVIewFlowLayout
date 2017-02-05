@@ -19,6 +19,7 @@
 		F2853C611E471CF300A8F00F /* Photos.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2853C541E471CF300A8F00F /* Photos.xcassets */; };
 		F2853C621E471CF300A8F00F /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2853C551E471CF300A8F00F /* PhotoViewController.swift */; };
 		F2853C631E471CF300A8F00F /* UIImage+Decompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2853C561E471CF300A8F00F /* UIImage+Decompression.swift */; };
+		F2853C651E47205C00A8F00F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F2853C641E47205C00A8F00F /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		F2853C541E471CF300A8F00F /* Photos.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Photos.xcassets; sourceTree = "<group>"; };
 		F2853C551E471CF300A8F00F /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 		F2853C561E471CF300A8F00F /* UIImage+Decompression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Decompression.swift"; sourceTree = "<group>"; };
+		F2853C641E47205C00A8F00F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,18 +71,19 @@
 		F2853C471E471CF300A8F00F /* FlowLayout */ = {
 			isa = PBXGroup;
 			children = (
-				F2853C481E471CF300A8F00F /* AnnotatedPhotoCell.swift */,
 				F2853C491E471CF300A8F00F /* AppDelegate.swift */,
+				F2853C511E471CF300A8F00F /* Photo.swift */,
+				F2853C481E471CF300A8F00F /* AnnotatedPhotoCell.swift */,
+				F2853C551E471CF300A8F00F /* PhotoViewController.swift */,
+				F2853C501E471CF300A8F00F /* MockupLayout.swift */,
 				F2853C4A1E471CF300A8F00F /* LaunchScreen.xib */,
 				F2853C4C1E471CF300A8F00F /* Main.storyboard */,
-				F2853C4E1E471CF300A8F00F /* Images.xcassets */,
-				F2853C4F1E471CF300A8F00F /* Info.plist */,
-				F2853C501E471CF300A8F00F /* MockupLayout.swift */,
-				F2853C511E471CF300A8F00F /* Photo.swift */,
-				F2853C531E471CF300A8F00F /* Photos.plist */,
-				F2853C541E471CF300A8F00F /* Photos.xcassets */,
-				F2853C551E471CF300A8F00F /* PhotoViewController.swift */,
 				F2853C561E471CF300A8F00F /* UIImage+Decompression.swift */,
+				F2853C4E1E471CF300A8F00F /* Images.xcassets */,
+				F2853C541E471CF300A8F00F /* Photos.xcassets */,
+				F2853C4F1E471CF300A8F00F /* Info.plist */,
+				F2853C531E471CF300A8F00F /* Photos.plist */,
+				F2853C641E47205C00A8F00F /* README.md */,
 			);
 			path = FlowLayout;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				F2853C5E1E471CF300A8F00F /* Photo.swift in Sources */,
 				F2853C631E471CF300A8F00F /* UIImage+Decompression.swift in Sources */,
 				F2853C581E471CF300A8F00F /* AppDelegate.swift in Sources */,
+				F2853C651E47205C00A8F00F /* README.md in Sources */,
 				F2853C5D1E471CF300A8F00F /* MockupLayout.swift in Sources */,
 				F2853C571E471CF300A8F00F /* AnnotatedPhotoCell.swift in Sources */,
 				F2853C621E471CF300A8F00F /* PhotoViewController.swift in Sources */,
