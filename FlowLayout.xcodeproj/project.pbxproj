@@ -20,6 +20,7 @@
 		F2853C621E471CF300A8F00F /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2853C551E471CF300A8F00F /* PhotoViewController.swift */; };
 		F2853C631E471CF300A8F00F /* UIImage+Decompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2853C561E471CF300A8F00F /* UIImage+Decompression.swift */; };
 		F2853C651E47205C00A8F00F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F2853C641E47205C00A8F00F /* README.md */; };
+		F2853C671E47210F00A8F00F /* Simulator Screen Shot 05-Feb-2017, 2.29.42 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F2853C661E47210F00A8F00F /* Simulator Screen Shot 05-Feb-2017, 2.29.42 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		F2853C551E471CF300A8F00F /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 		F2853C561E471CF300A8F00F /* UIImage+Decompression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Decompression.swift"; sourceTree = "<group>"; };
 		F2853C641E47205C00A8F00F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F2853C661E47210F00A8F00F /* Simulator Screen Shot 05-Feb-2017, 2.29.42 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 05-Feb-2017, 2.29.42 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				F2853C4F1E471CF300A8F00F /* Info.plist */,
 				F2853C531E471CF300A8F00F /* Photos.plist */,
 				F2853C641E47205C00A8F00F /* README.md */,
+				F2853C661E47210F00A8F00F /* Simulator Screen Shot 05-Feb-2017, 2.29.42 PM.png */,
 			);
 			path = FlowLayout;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2853C671E47210F00A8F00F /* Simulator Screen Shot 05-Feb-2017, 2.29.42 PM.png in Resources */,
 				F2853C5C1E471CF300A8F00F /* Info.plist in Resources */,
 				F2853C5B1E471CF300A8F00F /* Images.xcassets in Resources */,
 				F2853C591E471CF300A8F00F /* LaunchScreen.xib in Resources */,
