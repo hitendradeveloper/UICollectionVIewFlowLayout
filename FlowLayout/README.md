@@ -1,5 +1,5 @@
 # UICollectionView Custom FlowLayout
-## Demo implementation of UICollectionView Customer FlowLayout
+## Demo implementation of UICollectionView Custom FlowLayout
 
 ### Implementation : 
 
